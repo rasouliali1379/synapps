@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Synapps",
+    "icon": "./logo.png",
+    "version": "1.0.0",
+    "slug": "synapps",
+    "ios": {
+      "bundleIdentifier": "ir.synapps.learn",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ir.synapps.learn",
+      "versionCode": 1
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
